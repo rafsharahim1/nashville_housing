@@ -1,4 +1,5 @@
 Nashville Housing Data Cleaning Project SQL
+
 This project involves cleaning a dataset from the Nashville housing market found in the 'nashville_housing_data_2013_2016' table. The cleaned data will be stored in a staging table called 'NashvilleHousing_Staging'.
 
 Steps and Procedures
